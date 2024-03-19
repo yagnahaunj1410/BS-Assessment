@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "mysql": "^2.18.1"
+  },
+  "name": "business-quant",
+  "version": "1.0.0",
+  "description": "Business Quant Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yagnahaun Jonnadula",
+  "license": "ISC"
+}
